@@ -56,7 +56,7 @@ const Feed = () => {
             <Card className='mt-5 w-11/12'>
                 <Card.Body>
                     <div className='flex p-2'>
-                        <Image src='./rf21.jpg' alt='rf21' width={70} height={50} roundedCircle alt='rf' />
+                        <Image src='./rf21.jpg' alt='rf21' width={70} height={50} roundedCircle />
                         <div className='flex flex-col'>
                         <Form>
                             <FormControl placeholder='Start a conversation' className={`mt-1 ml-2 ${Styles.Input}`} />

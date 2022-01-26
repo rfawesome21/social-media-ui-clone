@@ -35,7 +35,7 @@ const Clubs = () => {
                         <Image src={'./partyyy.jpg'} width={20} height={25} alt='party' />
                     </div>
                     <div className='ml-2'>
-                        <h6 className='font-semibold  text-xs lg:text-sm'>St. Micheal's high school, Patna</h6>
+                        <h6 className='font-semibold  text-xs lg:text-sm'>St. Micheal&apos;s high school, Patna</h6>
                     </div>
                 </div>
                 <div className='mt-2 border-2 border-blue-400 rounded-3xl text-center'>
