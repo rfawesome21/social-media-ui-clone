@@ -8,7 +8,7 @@ const Clubs = () => {
             <Card.Body>
                 <div className='flex flex-row text-sm'>
                     <div>
-                        <Image src={'./partyyy.jpg'} width={20} height={25} />
+                        <Image src={'./partyyy.jpg'} width={20} height={25} alt='party' />
                     </div>
                     <div className='ml-2'>
                         <h6 className='font-semibold text-sm'>Maharashtra debating club</h6>
@@ -16,7 +16,7 @@ const Clubs = () => {
                 </div>
                 <div className='flex flex-row text-sm mt-2 items-center'>
                     <div>
-                        <Image src={'./partyyy.jpg'} width={20} height={25} />
+                        <Image src={'./partyyy.jpg'} width={20} height={25} alt='party' />
                     </div>
                     <div className='ml-2'>
                         <h6 className='font-semibold  text-xs lg:text-sm'>The journalists!</h6>
@@ -24,7 +24,7 @@ const Clubs = () => {
                 </div>
                 <div className='flex flex-row text-sm items-center mt-2'>
                     <div>
-                        <Image src={'./partyyy.jpg'} width={20} height={25} />
+                        <Image src={'./partyyy.jpg'} width={20} height={25} alt='party' />
                     </div>
                     <div className='ml-2'>
                         <h6 className='font-semibold  text-xs lg:text-sm'>Cricket club of India</h6>
@@ -32,7 +32,7 @@ const Clubs = () => {
                 </div>
                 <div className='flex flex-row text-sm items-center mt-2'>
                     <div>
-                        <Image src={'./partyyy.jpg'} width={20} height={25} />
+                        <Image src={'./partyyy.jpg'} width={20} height={25} alt='party' />
                     </div>
                     <div className='ml-2'>
                         <h6 className='font-semibold  text-xs lg:text-sm'>St. Micheal's high school, Patna</h6>

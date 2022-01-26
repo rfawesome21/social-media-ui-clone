@@ -47,7 +47,7 @@ const Feed = () => {
     const moreContent = (
         <div>
             <p className='font-light text-xs lg:text-base'>Lucky to have won!</p>
-            <Image src='./partyyy.jpg' className='h-60 lg:h-96 w-full mb-3' />
+            <Image src='./partyyy.jpg' className='h-60 lg:h-96 w-full mb-3' alt='party' />
         </div>
     )
 
@@ -56,7 +56,7 @@ const Feed = () => {
             <Card className='mt-5 w-11/12'>
                 <Card.Body>
                     <div className='flex p-2'>
-                        <Image src='./rf21.jpg' alt='rf21' width={70} height={50} roundedCircle />
+                        <Image src='./rf21.jpg' alt='rf21' width={70} height={50} roundedCircle alt='rf' />
                         <div className='flex flex-col'>
                         <Form>
                             <FormControl placeholder='Start a conversation' className={`mt-1 ml-2 ${Styles.Input}`} />

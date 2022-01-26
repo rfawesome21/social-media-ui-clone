@@ -33,7 +33,7 @@ const Actions = ({liker, likes, comments, shares}) => {
                 </div>
                 </div>
                 <div className='flex mt-4'>
-                <Image src='./rf21.jpg' height={40} width={40} roundedCircle />
+                <Image src='./rf21.jpg' height={40} width={40} roundedCircle alt='rf' />
                 <Form>
                     <FormControl
                     placeholder='Add a comment'
