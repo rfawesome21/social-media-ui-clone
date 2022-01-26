@@ -6,7 +6,7 @@ const Profile = () => {
     return(
         <div className='flex flex-col items-center w-9/12'>
             <Card className='mt-5 w-9/12'>
-                <Image src={'./rf21.jpg'} alt='Roger federer' roundedCircle height={400} width={400} className='p-5'/>
+                <Image src={'./rf21.jpg'} alt='Roger federr' roundedCircle height={400} width={400} className='p-5'/>
                 <Card.Body>
                     <div className='text-center'>
                         <h6 className='font-bold  text-xs lg:text-base'>Pratik Gangwal</h6>
